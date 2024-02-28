@@ -1,0 +1,38 @@
+
+{
+  "name": "blockchain-system-architecture",
+  "version": "1.0.0",
+  "description": "Environmental Setup and Design for the Proof of Banking blockchain system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^13.1.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "web3": "^1.5.2",
+    "fiat-transaction-monitoring": "^1.0.0",
+    "kyc-process": "^1.0.0",
+    "node-validation": "^1.0.0",
+    "truffle": "^5.3.8",
+    "ganache-cli": "^6.12.2",
+    "proof-of-banking-description": "^1.0.0",
+  },
+    "blockchain-design": "^1.0.0",
+  "devDependencies": {
+    "solidity": "^0.8.2"
+  }
+}
+
+
+
+
+
+
+
+
